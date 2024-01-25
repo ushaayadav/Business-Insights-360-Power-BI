@@ -3,6 +3,24 @@
 Dashboard Link:https://app.powerbi.com/view?r=eyJrIjoiZTkyODc3YmMtOTRmYi00ZDk0LWJkMzQtN2Q1NGQ1ZGYwN2JhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 This Dashboard contains several pages and views created for AtliQ Hardware Business Insights  such as: 
+
+𝗜 𝗳𝗶𝗻𝗱 𝗷𝗼𝘆 𝗶𝗻 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗺𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀."
+
+🏆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
+
+AtliQ Hardware is growing fast and wants to use PowerBi to make better decisions and beat competitors. They asked me to help with this, and I did it as part of my codebasics bootcamp.
+
+💡 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗶𝗱:
+
+🔹 I used tools like SQL, PowerBi Desktop, Excel, and DAX language.
+
+🔹 I learned to work with data, create dynamic reports, and make things look good.
+
+🔹 I made sure the reports are easy to use and understand.
+
+🌎 𝗔𝗯𝗼𝘂𝘁 𝗔𝘁𝗹𝗶𝗤 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲:
+
+AtliQ Hardware is a big company that sells computers and accessories. They want to use data to make decisions and do better in the industry.
  
 ➡️ Home Page:
 Purpose: Serves as the central hub for navigation and project information.
@@ -44,4 +62,9 @@ KPI Visual Charts: Net sales, Gross margin %, Net Profit % & Forecast Accuracy %
 Key Insights by Subzone & Top 5 Products & Customers by Revenue.
 Ribbon Chart for PC Market share trend (AtliQ & competitors).
 Yearly trends by revenue, Market share %, Net profit % & Gross Margin %.
+
+
+💡 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘂𝘁𝗰𝗼𝗺𝗲:
+
+We made a cool report that helps AtliQ Hardware make decisions based on data. They can now answer lots of important questions using this report.
  
