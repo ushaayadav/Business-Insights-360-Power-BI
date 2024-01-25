@@ -2,8 +2,6 @@
 
 Dashboard Link:https://app.powerbi.com/view?r=eyJrIjoiZTkyODc3YmMtOTRmYi00ZDk0LWJkMzQtN2Q1NGQ1ZGYwN2JhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-This Dashboard contains several pages and views created for AtliQ Hardware Business Insights  such as: 
-
 𝗜 𝗳𝗶𝗻𝗱 𝗷𝗼𝘆 𝗶𝗻 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗺𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀."
 
 🏆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
@@ -21,6 +19,9 @@ AtliQ Hardware is growing fast and wants to use PowerBi to make better decisions
 🌎 𝗔𝗯𝗼𝘂𝘁 𝗔𝘁𝗹𝗶𝗤 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲:
 
 AtliQ Hardware is a big company that sells computers and accessories. They want to use data to make decisions and do better in the industry.
+
+This Dashboard contains several pages and views created for AtliQ Hardware Business Insights  such as: 
+
  
 ➡️ Home Page:
 Purpose: Serves as the central hub for navigation and project information.
